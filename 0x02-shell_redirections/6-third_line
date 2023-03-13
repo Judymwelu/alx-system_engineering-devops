@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x,g+x,o+r hello
+head -n 3 iacta | tail -n 1
